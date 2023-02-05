@@ -1,0 +1,1 @@
+sqlite3.connect("mtzDB.db")
