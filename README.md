@@ -1,3 +1,3 @@
 # G-Cent
 
-# ** Releasing Soon ** 
+# ** Beta 0.1 is out!!** 
